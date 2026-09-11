@@ -6,20 +6,20 @@ This repository contains the research codebase, experimental pipelines, visualiz
 
 ## Collaborators
 
-* **Israt Moyeen Noumi**
- * ID- 1000060098
- * Department of Computer Science and Engineering, BRAC University  
- * Email: israt.moyeen.noumi@g.bracu.ac.bd
+* **Israt Moyeen Noumi**  
+  Student ID: 1000060098  
+  Department of Computer Science and Engineering, BRAC University  
+  Email: israt.moyeen.noumi@g.bracu.ac.bd
 
-* **Mysha Maliha Annisa**
- * ID- 21101243
- * Department of Computer Science and Engineering, BRAC University  
- * Email: mysha.maliha.annisa@g.bracu.ac.bd
+* **Mysha Maliha Annisa**  
+  Student ID: 21101243  
+  Department of Computer Science and Engineering, BRAC University  
+  Email: mysha.maliha.annisa@g.bracu.ac.bd
 
-* **Tazkera Sattar**
- * ID- 21101282
- * Department of Computer Science and Engineering, BRAC University  
- * Email: tazkera.sattar@g.bracu.ac.bd
+* **Tazkera Sattar**  
+  Student ID: 21101282  
+  Department of Computer Science and Engineering, BRAC University  
+  Email: tazkera.sattar@g.bracu.ac.bd
 
 ---
 
